@@ -485,29 +485,4 @@ npm install @project-serum/anchor @solana/web3.js @solana/spl-token chai
 ```
 
 
-
-
-# reference 
-
-https://www.rapidinnovation.io/post/solana-trading-bot-development-in-2024-a-comprehensive-guide
- https://station.jup.ag/docs/projects-and-dexes/integration-guidelines
- https://docs.raydium.io/raydium/protocol/developers/addresses
-
- https://orca-so.gitbook.io/orca-developer-portal/whirlpools/interacting-with-the-protocol/orca-whirlpools-parameters
-
- https://github.com/raydium-io/raydium-amm/blob/master/program/Cargo.toml
-
- https://github.com/raydium-io/raydium-cpi-example
-
- https://github.com/raydium-io/raydium-docs/tree/master/dev-resources
-
- https://github.com/microgift/meteora-cpi
-
- https://github.com/orca-so/whirlpool-cpi-sample/blob/main/anchor-0.29.0/programs/whirlpool-cpi-sample/
- 
- https://github.com/MeteoraAg/cpi-examples
-
-<div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
-
- https://solscan.io/account/benRLpb...WGbEUm
  
